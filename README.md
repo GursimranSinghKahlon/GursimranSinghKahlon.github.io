@@ -10,6 +10,6 @@
 [Click here](https://links.droplee.com)
 
 
-### Check out blogs
+## [blogs.Droplee](https://blogs.droplee.com)
 
 [Click here](https://blogs.droplee.com)
